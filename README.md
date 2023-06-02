@@ -5,6 +5,8 @@ https://github.com/IshitaKnj/Yolov8_ship_detection/assets/71023544/2e8bf966-a47b
 
 ## Ship Detection in Images
 
-<img src="https://github.com/IshitaKnj/Yolov8_ship_detection/assets/71023544/d3c2b0c2-1f94-415c-934e-6a925b49c796" height = "200" width="200">
+<img src="https://github.com/IshitaKnj/Yolov8_ship_detection/assets/71023544/d3c2b0c2-1f94-415c-934e-6a925b49c796" height = "500" width="500">
+<img src="https://github.com/IshitaKnj/Yolov8_ship_detection/assets/71023544/a68eb43c-f391-4809-b046-e57bde65f705" height = "500" width="500">
+
 
 
